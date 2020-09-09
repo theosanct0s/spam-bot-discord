@@ -1,0 +1,5 @@
+Como configurar seu bot de divulgação:
+
+- Configure a config.json como se pede
+- Configure a index.js do modo que você preferir
+- Por fim, abra o start.bat, ou coloque-o em uma host.
