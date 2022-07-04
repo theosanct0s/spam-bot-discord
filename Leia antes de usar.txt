@@ -2,4 +2,4 @@ How to configure your outreach bot:
 
 - Configure a config.json as requested
 - Configure an index.js the way you prefer
-- Finally, open start.bat, or put it on a host.
+- Finally, open start.bat, or put it on a host
