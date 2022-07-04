@@ -1,5 +1,5 @@
-Como configurar seu bot de divulgação:
+How to configure your outreach bot:
 
-- Configure a config.json como se pede
-- Configure a index.js do modo que você preferir
-- Por fim, abra o start.bat, ou coloque-o em uma host.
+- Configure a config.json as requested
+- Configure an index.js the way you prefer
+- Finally, open start.bat, or put it on a host.
