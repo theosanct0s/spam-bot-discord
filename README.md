@@ -1,16 +1,16 @@
-# bot-de-div
-Um bot simples focado em divulgação para o discord.
+# spam-bot [OUTDATED Discord.js - v11]
+A simple outreach bot for discord.
 
-# Instalação 
+# Installation
 
-Digite: "npm install" em seu terminal, para instalar todas as dependencias necessárias.
+Type: "npm install" in your terminal, to install all necessary dependencies.
 
-# Configuração
+# Settings
 
-- Configure a config.json como se pede
-- Configure a index.js do modo que você preferir
-- Por fim, abra o start.bat, ou coloque-o em uma host.
+- Configure config.json as requested
+- Configure index.js the way you like
+- Finally, open start.bat, or put it on a host.
 
-# Aviso
+# Warning
 
-Lembrando que, usar bot para divulgação é contra os termos do Discord, então, você pode ter sua conta criadora do bot desativada ou o bot excluido.
+Remembering that using bot for disclosure is against Discord terms, so you can have your bot creator account deactivated or the bot deleted.
